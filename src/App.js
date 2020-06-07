@@ -61,6 +61,7 @@ class App extends React.Component {
 
           </div>
         </div>
+        <br/>
         <div className="container">
           <span className="text-muted">
             Developed by @<span className="text-white">shebin_dilz</span> 
